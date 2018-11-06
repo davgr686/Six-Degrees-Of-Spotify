@@ -1,5 +1,5 @@
 # Six-Degrees-Of-Spotify
-Testing out the "Six degrees of seperation" idea using Spotify's API. I works by looking at an artists "related artists" and runs a best first search algorithm.
+Testing out the "Six degrees of seperation" idea using Spotify's API. It works by looking at an artists "related artists" and runs a best first search algorithm.
 
 ## How to run script
 To run the script you will have to have a Spotify account. 
