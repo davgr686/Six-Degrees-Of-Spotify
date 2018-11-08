@@ -15,7 +15,6 @@ def get_id_for_artist(artist_name):
     artist_id = searchResults['artists']['items'][0]['id']
     return artist_id
 
-##artist_explored.append(artist_name)
 
 def get_related_artists(id):
     child_artists = []
